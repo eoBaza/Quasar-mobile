@@ -1,31 +1,31 @@
 [
     {
       "id": 1,
-      "nome": "Açai 300ml",
+      "nome": "CEBOLA FRITA",
       "valor": 17.00,
       "imagem": "src/assets/frango.jpeg"
     },
     {
       "id": 2,
-      "nome": "Açai 500ml",
+      "nome": "FRANGO FRITO",
       "valor": 21.00,
       "imagem": "src/assets/frango2.jpeg"
     },
     {
       "id": 3,
-      "nome": "Açai 750ml",
+      "nome": "COMBO DE FRANGO",
       "valor": 29.00,
       "imagem": "src/assets/frango3.jpeg"
     },
     {
       "id": 4,
-      "nome": "Barca de açai 750ml",
+      "nome": "POLENTA COM QUEIJO",
       "valor": 30.00,
       "imagem": "src/assets/frango5.jpeg"
     },
     {
       "id": 5,
-      "nome": "Barca de açai 1L",
+      "nome": "BATATA COM QUEIJO",
       "valor": 50.00,
       "imagem": "src/assets/frango4.jpeg"
     }

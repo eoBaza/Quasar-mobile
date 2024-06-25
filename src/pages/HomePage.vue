@@ -9,7 +9,7 @@
           style="width: 50px; height: 50px;"
         />
         <q-toolbar-title>
-          <p style="font-size: 13px; margin-top: 15px;">{{ store.cpf }} Pontos:  {{ store.pontos(store.cpf) }}</p>
+          <p style="font-size: 13px; margin-top: 25px;">{{ store.cpf }} Pontos:  {{ store.pontos(store.cpf) }}</p>
         </q-toolbar-title>
 
         <q-btn-dropdown flat color="white" icon="person" size="15px">
