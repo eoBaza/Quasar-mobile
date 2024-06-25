@@ -68,7 +68,7 @@
         
       </div>
       <div style=" background-color: white;">
-        <a href="...." style="text-decoration: none; color: rebeccapurple;">Cliqq aqui<br>e venha conhecer nossos produtos</a>
+        <a href="https://acaidosloucos.netlify.app/#/" style="text-decoration: none; color: rebeccapurple;">Cliqq aqui<br>e venha conhecer nossos produtos</a>
       </div>
     </q-page>
   </q-layout>
